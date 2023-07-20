@@ -1,7 +1,6 @@
 # <center>Nicolás Tovar Almanza</center>
 ## <center>Engineer with a Passion for Innovation</center>
 
-![Profile Picture](link-to-your-profile-picture.png)
 
 Hello, world! 👋 I am Nicolás Tovar Almanza, a driven and enthusiastic engineer with a thirst for knowledge and a deep-rooted interest in emerging technologies. Born and raised in the vibrant country of Colombia, I am currently pursuing my studies in Production and Systems Engineering at EAFIT University.
 

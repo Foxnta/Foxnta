@@ -19,12 +19,8 @@ From a young age, I have been fascinated by various engineering disciplines and 
 - 🚚 Operations and Logistics
 
 ## Education
-- 🎓 Bachelor's in Production and Systems Engineering from EAFIT University
-
-## Projects and Achievements
-Throughout my academic and professional endeavors, I have worked on various projects and achieved significant milestones, including:
-- 📊 Created interactive dashboards using Power BI to provide key insights into production performance and facilitate data-driven decision-making.
-- 💻 Designed and built creative, responsive web pages using HTML, CSS, and JavaScript, ensuring optimal user experiences across various devices and screen sizes.
+- 🎓 Bachelor's in Production from EAFIT University
+- 🎓 Bachelor's in Software Engineering from EAFIT University
 
 ## Check Out My Website
 If you want to learn more about my projects and explore my portfolio, feel free to visit my personal website: [foxntaproject.netlify.app](https://foxntaproject.netlify.app). There, you'll find in-depth details about my work.
